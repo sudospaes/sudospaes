@@ -3,7 +3,7 @@
   
   Hi, I am SudoSpace; a software engineering student.
   <br>
-  I like code and learning about computer.
+  I like code and learning about computers.
   <br>
   <br>
   My favorite things are 
